@@ -6,9 +6,9 @@ Built for founders, devs, and DevRels who want to get started in under 5 minutes
 
 ## What's Inside
 
-1. 🔌 Wallet Connect (Ethers + MetaMask)
-2. 📝 Smart Contract Write (Ethers + ABI)
-3. 📡 Web3 API Fetch (Alchemy or Infura)
+1. Wallet Connect (Ethers + MetaMask)
+2. Smart Contract Write (Ethers + ABI)
+3. Web3 API Fetch (Alchemy or Infura)
 
 ---
 
